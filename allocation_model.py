@@ -1,4 +1,5 @@
 
+pip install pulp
 import pandas as pd
 import pulp
 
